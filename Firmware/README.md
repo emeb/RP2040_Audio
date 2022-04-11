@@ -28,10 +28,12 @@ https://github.com/raspberrypi/pico-sdk
 
 Install the SDK and ensure it's working properly, then within this directory
 
+```shell
 mkdir build
 cd build
 cmake ..
 make
+```
 
 Then either upload the .uf2 file to the RP2040 via USB, or use SWD to install
 the .elf file.
