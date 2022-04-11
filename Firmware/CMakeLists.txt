@@ -33,22 +33,7 @@ add_executable(rp2040_audio
 	fx.c
 	fx_vca.c
 	fx_cdl.c
-	fx_rdly.c
-	sinc_interp.c
 	circbuf.c
-	fx_idly.c
-	fx_fsh.c
-	ihilbert.c
-	morph.c
-	fx_phsr.c
-	fx_pshf.c
-	pshft.c
-	fx_mv1.c
-	mv_progs.c
-	fx_rvb.c
-	reverb.c
-	fx_filters.c
-	ifilter_mg4_v1.c
 	nvs.c
 )
 
