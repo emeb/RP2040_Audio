@@ -43,6 +43,7 @@ As provided here just three algorithms are available:
 * Simple pass-thru with no processing
 * Simple gain control
 * Basic "clean delay" with crossfaded deglitching during delay changes.
+
 Other algorithms have been tested including phasers, flangers, frequency shifters,
 resampling delays and reverbs, but these are not publicly released at this time.
 
