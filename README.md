@@ -1,7 +1,7 @@
 # RP2040_Audio
 A Eurorack module for stereo audio effects based on the Raspberry Pi RP2040 MCU
 
-<img src="docs/rp2040_audio_front.jpg" width="100" /> <img src="docs/rp2040_audio_back.jpg" width="100" /> 
+<img src="docs/rp2040_audio_front.jpg" width="300" /> <img src="docs/rp2040_audio_back.jpg" width="300" /> 
 
 ## Abstract
 I've been doing audio synthesis and effects in the Eurorack modular market for
