@@ -38,3 +38,8 @@ make
 Then either upload the .uf2 file to the RP2040 via USB, or use SWD to install
 the .elf file.
 
+## Acknowledgements
+Big thanks to Jonathan Brodsky who provided a great starting point for the
+full-duplex I2S I used here. Find his github here:
+
+https://github.com/jonbro
